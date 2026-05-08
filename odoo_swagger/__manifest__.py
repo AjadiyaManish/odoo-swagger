@@ -16,7 +16,7 @@
     'author': 'Envision Technolabs',
     'maintainer': 'Envision Technolabs',
     'website': 'https://www.envisiontechnolabs.com',
-    'price': 49.99,
+    'price': 10,
     'currency': 'USD',
    # 'license': 'LGPL-3',
     'license': 'OPL-1',
